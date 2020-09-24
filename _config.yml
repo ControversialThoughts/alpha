@@ -4,6 +4,8 @@ author:
   email: controversial.thoughts.3@google.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Blog for unpopular opinions
+  
+url: https://controversialthoughts.github.io/minima/
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
